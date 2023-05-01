@@ -1,6 +1,7 @@
 ### Hi all! 👋:woman:
 
-- 🌱 I’m currently learning Javascript 
+- Sou desenvolvedora frontend na Xprog Labs.
+- Meus principais temas de estudo são: Javascript, React, Storybook e programação funcional.
 - 📫 How to reach me: francisdiasbr@gmail.com
 
 <div style="display: inline_block"><br>
