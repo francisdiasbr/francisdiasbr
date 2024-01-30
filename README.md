@@ -1,4 +1,4 @@
-### Hi all! 👋:woman:
+### Hi all! 👋
 
 - Sou desenvolvedora frontend na Xprog Labs.
 - Meus principais temas de estudo são: Javascript, React, Storybook e programação funcional.
