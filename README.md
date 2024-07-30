@@ -1,4 +1,4 @@
-## Hello! Welcome to my Github profile 👋
+## Hello! Welcome to my GitHub profile 👋
 
 
 ✨ My name is Francis and I'm a brazilian software developer with 3+ years collaborating in projects.
