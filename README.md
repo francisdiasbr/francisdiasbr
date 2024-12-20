@@ -1,7 +1,7 @@
 ## Hello! Welcome to my GitHub profile 👋
 
 
-✨ My name is Francis and I'm a brazilian software developer with 4 years collaborating in projects.
+✨ My name is Francis and I'm a brazilian software developer with 6 years collaborating in projects in PT & EN
 
   💬 Before that I worked as a chemical engineer for 10 years
 
