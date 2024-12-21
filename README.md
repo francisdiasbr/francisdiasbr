@@ -10,19 +10,29 @@ Before that I worked as a chemical engineer for 10 years.
   
 I’m currently practicing the latest trendings in AI, such as Atlas Vector Search and trained models. In that matter, you can check these repositories:
 
+### ✨ Feedback categorization w/ OpenAI
+
+This POC aims to categorize customer reviews using OpenAI. The analysis will be based on the comment text to assign a specific category that best describes the feedback.
+
+#### 1. In Python
+- https://github.com/francisdiasbr/feedback-categorization-python
+
+#### 2. In JavaScript
+- https://github.com/francisdiasbr/feedback-categorization-js
+
 <br/>
 
-## 🔮 Mineral-book
+### 🔮 Mineral-book
 
 A complete solution for extracting, processing, storing, and searching for information about minerals in a semantic way. It illustrates the application of NLP techniques and semantic search on real datasets, providing a foundation for recommendation systems, enhanced search, and text analysis.
 
 See the projects to learn more about each repository of the application.
 
-### 1. Backend (Python)
+#### 1. Backend (Python)
 - https://github.com/francisdiasbr/py-mineral-book
 
   
-### 2. Frontend (React Native + Expo)
+#### 2. Frontend (React Native + Expo)
 - https://github.com/francisdiasbr/mineral-book
 
 | Main Screen | Mineral Screen | 
@@ -33,24 +43,24 @@ See the projects to learn more about each repository of the application.
 
 <br/>
 
-## 🎬 The Movie Search
+### 🎬 The Movie Search
 
 It is a project with a Admin, a Blog and two APIs projects, one for each frontend.
 
 In admin, user can search in IMDb catalogue, create a list of favorite movies and generate blogposts.
 In blog, users can see the generated blogposts.
 
-### 1. Movie Search Admin Frontend:
+#### 1. Movie Search Admin Frontend:
 https://github.com/francisdiasbr/movie-search-frontend (JavaScript, Typescript, Redux, React)
 
-### 2. Movie Search Admin Backend:
+#### 2. Movie Search Admin Backend:
 https://github.com/francisdiasbr/movie-search-backend (Python)
 Is the backend for Movie Search. The project comprehends all the endpoints the admin application needs.
 
-### 3. Movie Search Blog:
+#### 3. Movie Search Blog:
 https://github.com/francisdiasbr/movie-search-blog
 
-### 4. Movie Search Blog Backend:
+#### 4. Movie Search Blog Backend:
 https://github.com/francisdiasbr/movie-search-blog-backend
 
 
