@@ -2,15 +2,20 @@
 
 👐 This is my personal profile. My professional profile is not open to the public.
 
-My name is Francis and I'm a brazilian software developer with 6 years collaborating in projects in PT & EN.
+About me:
 
-Before that I worked as a chemical engineer for 10 years.
+- My name is Francis and I'm a brazilian software developer with 6 years collaborating in projects in PT & EN;
 
-  
-I’m currently practicing the latest trendings in AI, such as Atlas Vector Search and trained models. 
-In these matters, you can check these repositories that are using generative AI or Vector Search:
+- Before that I worked as a chemical engineer for 10 years.
 
-### 🎬 The Movie Search
+
+## Repositories I'm working on:
+
+- I’m currently practicing the latest trendings in AI: Atlas Vector Search and trained models.
+
+> In these matters, you can check these repositories that are using generative AI or Vector Search:
+
+<h3><mark>🎬 The Movie Search</mark></h3>
 
 w/ Langchain
 
@@ -20,6 +25,8 @@ The project also has and two APIs, one for each frontend application.
 - In admin, user can search in IMDb catalogue, create a list of favorite movies and generate blogposts.
 - In blog, users can see the generated blogposts.
 
+<details>
+<summary><mark>Here the 5 public repos that comprehend the application</mark></summary>
 
 #### 1. Movie Search Admin Frontend:
 https://github.com/francisdiasbr/movie-search-frontend (Next project with Redux for state management)
@@ -37,9 +44,13 @@ https://github.com/francisdiasbr/movie-search-blog-backend (Python project with 
 #### 5. Archictecture Decision Records for Movie Search project (ADRs):
 https://github.com/francisdiasbr/movie-search-adr (Markdown, in order to write the decisions in this repository)
 
+</details>
 <br/>
 
-### ✨ Feedback categorization w/ OpenAI
+<img width="1680" alt="Screenshot 2025-01-02 at 15 09 11 (2)" src="https://github.com/user-attachments/assets/1899159c-1e60-4739-a7ed-67a156270a26" />
+
+
+<h3><mark>✨ Feedback categorization w/ OpenAI</mark></h3>
 
 w/ Langchain
 
@@ -53,13 +64,16 @@ This POC aims to categorize customer reviews using OpenAI. The analysis will be 
 
 <br/>
 
-### 🔮 Mineral-book
+<h3><mark> 🔮 Mineral-book </h3></mark>
 
 w/ Vector Search
 
 A complete solution for extracting, processing, storing, and searching for information about minerals in a semantic way. It illustrates the application of NLP techniques and semantic search on real datasets, providing a foundation for recommendation systems, enhanced search, and text analysis.
 
 See the projects to learn more about each repository of the application.
+
+<details>
+<summary><mark>Here the 2 public repos</mark></summary>
 
 #### 1. Backend (Python)
 - https://github.com/francisdiasbr/py-mineral-book
@@ -68,14 +82,12 @@ See the projects to learn more about each repository of the application.
 #### 2. Frontend (React Native + Expo)
 - https://github.com/francisdiasbr/mineral-book
 
-| Main Screen | Mineral Screen | 
-|:---------:|:---------:|
-![mineral_1](https://github.com/user-attachments/assets/adb77a57-bc58-47ec-993e-55bded057205) | ![mineral_2](https://github.com/user-attachments/assets/e3bcee5b-b2fb-4f81-a7f8-07f0c5edb48e)
-
-
-
+</details>
 <br/>
 
+| Main Screen | Mineral Screen | 
+|:-----------:|:--------------:|
+| <img src="https://github.com/user-attachments/assets/adb77a57-bc58-47ec-993e-55bded057205" width="350"/> | <img src="https://github.com/user-attachments/assets/e3bcee5b-b2fb-4f81-a7f8-07f0c5edb48e" width="350"/> |
 
 
   ### FAQ
