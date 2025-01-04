@@ -47,7 +47,9 @@ https://github.com/francisdiasbr/movie-search-adr (Markdown, in order to write t
 </details>
 <br/>
 
-<img width="1200" alt="Screenshot 2025-01-02 at 15 09 11 (2)" src="https://github.com/user-attachments/assets/1899159c-1e60-4739-a7ed-67a156270a26" style="border: 2px solid orange;" />
+![Screenshot 2025-01-04 at 19 00 13 (2) 1](https://github.com/user-attachments/assets/2f2dde79-09c3-499c-b7e8-7e750da60518)
+![Screenshot 2025-01-04 at 18 59 15 (2) 1](https://github.com/user-attachments/assets/1043af9a-fbf0-42dd-9ed5-e4b59b393af1)
+
 
 <h3><mark>✨ Feedback categorization w/ OpenAI</mark></h3>
 
@@ -61,9 +63,12 @@ This POC aims to categorize customer reviews using OpenAI. The analysis will be 
 #### 2. In JavaScript
 - https://github.com/francisdiasbr/feedback-categorization-js
 
-<img alt="python table" src="https://github.com/user-attachments/assets/a4577b42-c0ff-4cf9-b7ea-e8c6d54fc94f" style="border: 2px solid orange" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fcb7e58-0cfc-46ba-be74-ccfcdfdbaf8c" alt="Feedback Categorization">
+</p>
 <br/>
+
+
 
 <h3><mark> 🔮 Mineral-book </h3></mark>
 
@@ -86,9 +91,10 @@ See the projects to learn more about each repository of the application.
 </details>
 <br/>
 
-| Main Screen | Mineral Screen | 
-|:-----------:|:--------------:|
-| <img src="https://github.com/user-attachments/assets/adb77a57-bc58-47ec-993e-55bded057205" width="350"/> | <img src="https://github.com/user-attachments/assets/e3bcee5b-b2fb-4f81-a7f8-07f0c5edb48e" width="350"/> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2020b59c-1dcd-4d72-b699-1f9cf3029015" alt="Feedback Categorization">
+  <img src="https://github.com/user-attachments/assets/e63851d1-a7f1-4f4c-8d77-b9a74a3a718d" alt="Feedback Categorization">
+</p>
 
 
   ### FAQ
