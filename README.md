@@ -1,6 +1,7 @@
 ## Hey, it's Fran! Welcome to my GitHub profile 👋
 
-👐 This is my personal profile. My professional profile is not open to the public.
+👐 This is my personal profile. Here I share projects based on my actual needs and hobbies.
+
 
 About me:
 
