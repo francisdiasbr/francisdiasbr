@@ -14,11 +14,11 @@ About me:
 
 - I’m currently practicing the latest trendings in AI: Atlas Vector Search and trained models.
 
-> In these matters, you can check these repositories that are using generative AI or Vector Search:
+ In these matters, you can check these repositories that are using generative AI or Vector Search:
 
 <h3><mark>🎬 The Movie Search</mark></h3>
 
-w/ Langchain
+with Langchain
 
 It is a **ecosystem** that interact with Internet Movie Database (through bulk catalogue, in user machine), create a curatory of movies, generate blogposts (all of that in Admin project locally), and after that publish the blogposts in a online Blog. 
 The project also has and two APIs, one for each frontend application.
@@ -54,7 +54,7 @@ https://github.com/francisdiasbr/movie-search-adr (Markdown, in order to write t
 
 <h3><mark>✨ Feedback categorization w/ OpenAI</mark></h3>
 
-w/ Langchain
+with Langchain
 
 This POC aims to categorize customer reviews using OpenAI. The analysis will be based on the comment text to assign a specific category that best describes the feedback.
 
@@ -73,7 +73,7 @@ This POC aims to categorize customer reviews using OpenAI. The analysis will be 
 
 <h3><mark> 🔮 Mineral-book </h3></mark>
 
-w/ Vector Search
+with embeddings & Vector Search
 
 A complete solution for extracting, processing, storing, and searching for information about minerals in a semantic way. It illustrates the application of NLP techniques and semantic search on real datasets, providing a foundation for recommendation systems, enhanced search, and text analysis.
 
