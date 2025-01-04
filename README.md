@@ -20,7 +20,7 @@ About me:
 
 w/ Langchain
 
-It is a **system** to interact with Internet Movie Database (bulk catalogue, in localhost), create a curatory of movies, generate blogposts (all of that in Admin project locally), and after that publish the blogposts in a Blog. 
+It is a **ecosystem** that interact with Internet Movie Database (through bulk catalogue, in user machine), create a curatory of movies, generate blogposts (all of that in Admin project locally), and after that publish the blogposts in a online Blog. 
 The project also has and two APIs, one for each frontend application.
 
 - In admin, user can search in IMDb catalogue, create a list of favorite movies and generate blogposts.
