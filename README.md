@@ -47,8 +47,7 @@ https://github.com/francisdiasbr/movie-search-adr (Markdown, in order to write t
 </details>
 <br/>
 
-<img width="1680" alt="Screenshot 2025-01-02 at 15 09 11 (2)" src="https://github.com/user-attachments/assets/1899159c-1e60-4739-a7ed-67a156270a26" />
-
+<img width="1200" alt="Screenshot 2025-01-02 at 15 09 11 (2)" src="https://github.com/user-attachments/assets/1899159c-1e60-4739-a7ed-67a156270a26" style="border: 2px solid orange;" />
 
 <h3><mark>✨ Feedback categorization w/ OpenAI</mark></h3>
 
@@ -61,6 +60,8 @@ This POC aims to categorize customer reviews using OpenAI. The analysis will be 
 
 #### 2. In JavaScript
 - https://github.com/francisdiasbr/feedback-categorization-js
+
+<img alt="python table" src="https://github.com/user-attachments/assets/a4577b42-c0ff-4cf9-b7ea-e8c6d54fc94f" style="border: 2px solid orange" />
 
 <br/>
 
