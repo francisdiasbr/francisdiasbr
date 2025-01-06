@@ -16,6 +16,19 @@ About me:
 
  In these matters, you can check these repositories that are using generative AI or Vector Search:
 
+<h3><mark>🎒 Turin: A Tourism Application</mark></h3>
+Turin is a social platform for discovering, saving and sharing curated travel experiences.
+ 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d1ddab3d-2be7-4f5b-a89f-19e5170cd80e" alt="Imagem 1" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/3333be20-b6a5-4945-be03-88e71a5fceb9" alt="Imagem 2" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/f62f6f09-cc52-413d-8d67-151274e87ecd" alt="Imagem 3" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/15b1d462-318e-4f39-8b23-744fc41457c5" alt="Imagem 4" width="300"></td>
+  </tr>
+</table>
+
+
 <h3><mark>🎬 The Movie Search</mark></h3>
 
 with Langchain
