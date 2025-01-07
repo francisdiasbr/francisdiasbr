@@ -17,14 +17,15 @@ About me:
  In these matters, you can check these repositories that are using generative AI or Vector Search:
 
 <h3><mark>🎒 Turin: A Tourism Application</mark></h3>
-Turin is a social platform for discovering, saving and sharing curated travel experiences.
- 
+
+This repo is private, but we can talk about it. The app is available in Brazil only in Apple Store.
+
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d1ddab3d-2be7-4f5b-a89f-19e5170cd80e" alt="Imagem 1" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/3333be20-b6a5-4945-be03-88e71a5fceb9" alt="Imagem 2" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/f62f6f09-cc52-413d-8d67-151274e87ecd" alt="Imagem 3" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/15b1d462-318e-4f39-8b23-744fc41457c5" alt="Imagem 4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/66bf69e2-7b47-4f50-ba67-1b4a2c697d44" alt="Imagem 1" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/bf33232d-6768-4ed9-a493-70b59502b30b" alt="Imagem 2" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/e6e487e9-c376-4e68-b863-bfe1f4e975b2" alt="Imagem 3" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/988593f9-4508-47a3-9e51-41b5544a5b8d" alt="Imagem 4" width="300"></td>
   </tr>
 </table>
 
