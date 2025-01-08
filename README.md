@@ -18,7 +18,9 @@ About me:
 
 <h3><mark>🎒 Turin: A Tourism Application</mark></h3>
 
-This repo is private, but we can talk about it. The app is available in Brazil only in Apple Store.
+This repo is private, but for sure we can talk about it. I made it from scratch, both api and app.
+
+The app is available in ONLY Brazil in Apple Store. Please share your thoughts and let's talk: https://apps.apple.com/br/app/turin-app/id6479428113?l=en-GB
 
 <table>
   <tr>
