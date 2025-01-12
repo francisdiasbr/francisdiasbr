@@ -20,9 +20,14 @@ About me:
 
 An innovative real estate search platform that uses AI to understand natural language queries. Replace complex forms with a smart search bar that understands queries like "sunny 3-bedroom apartment near subway" or "pet-friendly house with backyard under 800k".
 
+
+
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76df33e0-ebc8-4a7d-9c6a-f6833996084d" alt="Imagem 1" width="300">
-  <img src="https://github.com/user-attachments/assets/fba16862-ee6c-4156-9d75-805f7477d477" alt="Imagem 2" width="300">
+  <img src="https://github.com/user-attachments/assets/9df62f08-6095-45b3-ab0f-d2badfe7bc97" alt="Imagem 1" width="300">
+  <img src="https://github.com/user-attachments/assets/42648ff8-068e-4e64-ac28-6d58f10783ff" alt="Imagem 2" width="300">
+  <img src="https://github.com/user-attachments/assets/038e20dd-9205-42a0-814b-dbff0c3c42fa" alt="Imagem 2" width="300">
 </p>
 
 See the repos below to learn more about each part of the application.
