@@ -16,21 +16,33 @@ About me:
 
  In these matters, you can check these repositories that are using generative AI or Vector Search:
 
+<h3><mark>🏡 Intelligent Real Estate Search Platform</mark></h3>
+
+An innovative real estate search platform that uses AI to understand natural language queries. Replace complex forms with a smart search bar that understands queries like "sunny 3-bedroom apartment near subway" or "pet-friendly house with backyard under 800k".
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76df33e0-ebc8-4a7d-9c6a-f6833996084d" alt="Imagem 1" width="300">
+  <img src="https://github.com/user-attachments/assets/fba16862-ee6c-4156-9d75-805f7477d477" alt="Imagem 2" width="300">
+</p>
+
+See the repos below to learn more about each part of the application.
+
+1. Backend (Python)
+[https://github.com/francisdiasbr/py-mineral-book](https://github.com/francisdiasbr/real-estate-app-api)
+2. Frontend (React Native + Expo Managed App)
+[https://github.com/francisdiasbr/mineral-book](https://github.com/francisdiasbr/real-estate-app)
+
 <h3><mark>🎒 Turin: A Tourism Application</mark></h3>
 
 This repo is private, but for sure we can talk about it. I made it from scratch, both api and app.
 
 The app is available in ONLY Brazil in Apple Store. Please share your thoughts and let's talk: https://apps.apple.com/br/app/turin-app/id6479428113?l=en-GB
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/66bf69e2-7b47-4f50-ba67-1b4a2c697d44" alt="Imagem 1" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/bf33232d-6768-4ed9-a493-70b59502b30b" alt="Imagem 2" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/e6e487e9-c376-4e68-b863-bfe1f4e975b2" alt="Imagem 3" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/988593f9-4508-47a3-9e51-41b5544a5b8d" alt="Imagem 4" width="300"></td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5289b6e0-5e06-42a9-901e-1a580f1f8d08" alt="Imagem 1" width="300">
+  <img src="https://github.com/user-attachments/assets/13d64cbf-0c29-471f-8259-6008b78c8c3e" alt="Imagem 2" width="300">
+  <img src="https://github.com/user-attachments/assets/bb39b3c7-9867-44b6-aa4d-bd7d75aafba6" alt="Imagem 3" width="300">
+</p>
 
 <h3><mark>🎬 The Movie Search</mark></h3>
 
@@ -43,7 +55,7 @@ The project also has and two APIs, one for each frontend application.
 - In blog, users can see the generated blogposts.
 
 <details>
-<summary><mark>Here the 5 public repos that comprehend the application</mark></summary>
+<summary><mark>See the 5 repos below to learn more about each part of the application.</mark></summary>
 
 #### 1. Movie Search Admin Frontend:
 https://github.com/francisdiasbr/movie-search-frontend (Next project with Redux for state management)
