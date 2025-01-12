@@ -12,11 +12,14 @@ About me:
 
 ## Repositories I'm working on:
 
-- I’m currently practicing the latest trendings in AI: Atlas Vector Search and trained models.
-
- In these matters, you can check these repositories that are using generative AI or Vector Search:
+- I’m currently practicing the latest trendings in AI: Atlas Vector Search and trained models. In these matters, you can check these repositories that are using generative AI or Vector Search:
 
 <h3><mark>🏡 Intelligent Real Estate Search Platform</mark></h3>
+
+1. Backend (Python)
+[https://github.com/francisdiasbr/py-mineral-book](https://github.com/francisdiasbr/real-estate-app-api)
+2. Frontend (React Native + Expo Managed App)
+[https://github.com/francisdiasbr/mineral-book](https://github.com/francisdiasbr/real-estate-app)
 
 An innovative real estate search platform that uses AI to understand natural language queries. Replace complex forms with a smart search bar that understands queries like "sunny 3-bedroom apartment near subway" or "pet-friendly house with backyard under 800k".
 
@@ -30,12 +33,6 @@ An innovative real estate search platform that uses AI to understand natural lan
   <img src="https://github.com/user-attachments/assets/038e20dd-9205-42a0-814b-dbff0c3c42fa" alt="Imagem 2" width="300">
 </p>
 
-See the repos below to learn more about each part of the application.
-
-1. Backend (Python)
-[https://github.com/francisdiasbr/py-mineral-book](https://github.com/francisdiasbr/real-estate-app-api)
-2. Frontend (React Native + Expo Managed App)
-[https://github.com/francisdiasbr/mineral-book](https://github.com/francisdiasbr/real-estate-app)
 
 <h3><mark>🎒 Turin: A Tourism Application</mark></h3>
 
@@ -60,7 +57,7 @@ The project also has and two APIs, one for each frontend application.
 - In blog, users can see the generated blogposts.
 
 <details>
-<summary><mark>See the 5 repos below to learn more about each part of the application.</mark></summary>
+<summary>See the 5 repos below to learn more about each part of the application.</summary>
 
 #### 1. Movie Search Admin Frontend:
 https://github.com/francisdiasbr/movie-search-frontend (Next project with Redux for state management)
@@ -85,7 +82,7 @@ https://github.com/francisdiasbr/movie-search-adr (Markdown, in order to write t
 ![Screenshot 2025-01-04 at 18 59 15 (2) 1](https://github.com/user-attachments/assets/1043af9a-fbf0-42dd-9ed5-e4b59b393af1)
 
 
-<h3><mark>✨ Feedback categorization w/ OpenAI</mark></h3>
+<h3>✨ Feedback categorization w/ OpenAI</mark></h3>
 
 with Langchain
 
@@ -110,11 +107,6 @@ with embeddings & Vector Search
 
 A complete solution for extracting, processing, storing, and searching for information about minerals in a semantic way. It illustrates the application of NLP techniques and semantic search on real datasets, providing a foundation for recommendation systems, enhanced search, and text analysis.
 
-See the projects to learn more about each repository of the application.
-
-<details>
-<summary><mark>Here the 2 public repos</mark></summary>
-
 #### 1. Backend (Python)
 - https://github.com/francisdiasbr/py-mineral-book
 
@@ -122,8 +114,6 @@ See the projects to learn more about each repository of the application.
 #### 2. Frontend (React Native + Expo)
 - https://github.com/francisdiasbr/mineral-book
 
-</details>
-<br/>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2020b59c-1dcd-4d72-b699-1f9cf3029015" alt="Feedback Categorization">
