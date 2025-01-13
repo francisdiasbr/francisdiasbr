@@ -5,7 +5,7 @@
 
 About me:
 
-- My name is Francis and I'm a brazilian software developer with 6 years collaborating in projects in PT & EN;
+- My name is Francis and I'm a brazilian software developer with +5 years collaborating in projects in PT & EN;
 
 - Before that I worked as a chemical engineer for 10 years.
 
