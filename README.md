@@ -54,7 +54,7 @@ The app is available only in Brazil in Apple Store.
 </details>
 
 <details>
-<summary>🎬 The Movie Search (a complete cockpit to organize your passion for cinema - favorite, learn from IMDb about the movie, watch the movie, listen to movie soundtrack on Spotify)</summary>
+<summary>🎬 The Movie Search (a complete cockpit to organize and publish to the world your passion for cinema - favorite, learn from IMDb about the movie, watch the movie, listen to movie soundtrack on Spotify)</summary>
 <br/>
 (with Langchain)
 <br/>
@@ -118,7 +118,7 @@ A complete solution for extracting, processing, storing, and searching for infor
 
 ## Next
 
-Give me the honor of your visit the blog I expose my ideas about the Seventh Art: https://themoviesearchblog.netlify.app/
+Give me the honor of your visit in my blog, where I expose my ideas about the Seventh Art: https://themoviesearchblog.netlify.app/
 
 
 
