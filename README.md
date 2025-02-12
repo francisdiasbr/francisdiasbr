@@ -10,40 +10,18 @@ My name is Francis and I'm a brazilian software developer with +5 years collabor
 Before that I worked as a chemical engineer for 10 years.
 
 
-## Repositories I'm working on:
+## Repositories I'm working on (all public, except Turin app):
 
 I’m currently practicing the latest trendings in AI: Atlas Vector Search and trained models. In these matters, you can check these repositories that are using generative AI or Vector Search:
 
-<details>
-<summary>🏡 Intelligent Real Estate Search Platform (a real state app that uses AI to perform search)</summary>
-
-<br/>
-(with Atlas Vector Search)
-
-<br/>
-
-1. Backend (Python)
-[https://github.com/francisdiasbr/py-mineral-book](https://github.com/francisdiasbr/real-estate-app-api)
-2. Frontend (React Native + Expo Managed App)
-[https://github.com/francisdiasbr/mineral-book](https://github.com/francisdiasbr/real-estate-app)
-
-An innovative real estate search platform that uses AI to understand natural language queries. 
-
-Replace complex forms with a smart search bar that understands queries like "sunny 3-bedroom apartment near subway" or "pet-friendly house with backyard under 800k".
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9df62f08-6095-45b3-ab0f-d2badfe7bc97" alt="Imagem 1" width="300">
-  <img src="https://github.com/user-attachments/assets/42648ff8-068e-4e64-ac28-6d58f10783ff" alt="Imagem 2" width="300">
-  <img src="https://github.com/user-attachments/assets/038e20dd-9205-42a0-814b-dbff0c3c42fa" alt="Imagem 2" width="300">
-</p>
-</details>
 
 <details>
-<summary>🎒 Turin App (a social network app for travelers) </summary>
+<summary>A SOCIAL NETWORK FOR TRAVELERS: 🎒 Turin App</summary>
 <br/>
 The app is available only in Brazil in Apple Store.
+This repository is not public!
 
-[Clique aqui para acessar o app na Apple Store](https://apps.apple.com/br/app/turin-app/id6479428113?l=en-GB)
+[Click here to access app on the Apple Store](https://apps.apple.com/br/app/turin-app/id6479428113?l=en-GB)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5289b6e0-5e06-42a9-901e-1a580f1f8d08" alt="Imagem 1" width="300">
@@ -54,11 +32,34 @@ The app is available only in Brazil in Apple Store.
 </details>
 
 <details>
-<summary>🎬 The Movie Search (a complete cockpit to organize and publish to the world your passion for cinema - favorite, learn from IMDb about the movie, watch the movie, listen to movie soundtrack on Spotify)</summary>
+<summary>SEARCH BY NATURAL LANGUAGE QUERY: 🏡 Intelligent Real Estate Search Platform</summary>
+
+<br/>
+Is a real-state app that uses AI to perform search in a Atlas Vector Search database using natural language queries (voice and text).
+
+<br/>
+1. Backend (Python)
+[https://github.com/francisdiasbr/py-mineral-book](https://github.com/francisdiasbr/real-estate-app-api)
+2. Frontend (React Native + Expo Managed App)
+[https://github.com/francisdiasbr/mineral-book](https://github.com/francisdiasbr/real-estate-app)
+
+
+Replace complex forms with a smart search bar that understands queries like "sunny 3-bedroom apartment near subway" or "pet-friendly house with backyard under 800k".
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9df62f08-6095-45b3-ab0f-d2badfe7bc97" alt="Imagem 1" width="300">
+  <img src="https://github.com/user-attachments/assets/42648ff8-068e-4e64-ac28-6d58f10783ff" alt="Imagem 2" width="300">
+  <img src="https://github.com/user-attachments/assets/038e20dd-9205-42a0-814b-dbff0c3c42fa" alt="Imagem 2" width="300">
+</p>
+</details>
+
+
+<details>
+<summary>MOVIES: 🎬 The Movie Search</summary>
 <br/>
 (with Langchain)
 <br/>
-
+ (a complete cockpit to organize and publish to the world your passion for cinema - favorite, learn from IMDb about the movie, watch the movie, listen to movie soundtrack on Spotify)
 It is a **ecosystem** that interact with Internet Movie Database (through bulk catalogue, in user machine), create a curatory of movies, generate blogposts (all of that in Admin project locally), and after that publish the blogposts in a online Blog. 
 The project also has and two APIs, one for each frontend application.
 
@@ -79,7 +80,7 @@ https://github.com/francisdiasbr/movie-search-backend (Python project with Flask
 </details>
 
 <details>
-<summary>✨ Feedback categorization w/ OpenAI</summary>
+<summary>CATEGORIZATION USING CHAT COMPLETION: ✨ Feedback categorization w/ OpenAI</summary>
 <br/>
 (with Langchain)
 
@@ -94,11 +95,14 @@ This POC aims to categorize customer reviews using OpenAI. The analysis will be 
 </details>
 
 <details>
-<summary> 🔮 Mineral-book (a project to perform search and see properties of minerals through similarity, with atlas vector search database) </summary>
+<summary>SEARCH REGISTERS BY SIMILARITY: 🔮 Mineral-book</summary>
 
 <br/>
 (with Atlas Vector Search)
+SEARCH REGISTERS USING SEARCH PERFORMED IN A ATLAS VECTOR DATABASE
 
+(a project to perform search and see properties of minerals through similarity, with atlas vector search database) 
+ 
 A complete solution for extracting, processing, storing, and searching for information about minerals in a semantic way. It illustrates the application of NLP techniques and semantic search on real datasets, providing a foundation for recommendation systems, enhanced search, and text analysis.
 
 #### 1. Backend (Python)
